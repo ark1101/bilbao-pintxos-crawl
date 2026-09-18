@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Bilbao pintxos crawl", "stroke": "#d73a49", "stroke-width": 4, "stroke-opacity": 0.85},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-2.9312292, 43.2678103],
+          [-2.9280011, 43.2624655],
+          [-2.9222899, 43.2593788],
+          [-2.9216136, 43.2587166],
+          [-2.9260641, 43.2582878],
+          [-2.9326962, 43.2619801],
+          [-2.9327006, 43.2617626],
+          [-2.9312292, 43.2678103]
+        ]
+      }
+    },
+    {"type":"Feature","properties":{"order":0,"name":"Hotel start/end","address":"Mazarredo Zumarkalea 22","marker-color":"#24292f","marker-symbol":"lodging"},"geometry":{"type":"Point","coordinates":[-2.9312292,43.2678103]}},
+    {"type":"Feature","properties":{"order":1,"name":"Café Iruña","address":"Colón de Larreátegui 13","order_this":"Pincho moruno","marker-color":"#d73a49","marker-symbol":"1"},"geometry":{"type":"Point","coordinates":[-2.9280011,43.2624655]}},
+    {"type":"Feature","properties":{"order":2,"name":"Gure Toki","address":"Plaza Nueva 12","order_this":"Oxtail croquette","marker-color":"#d73a49","marker-symbol":"2"},"geometry":{"type":"Point","coordinates":[-2.9222899,43.2593788]}},
+    {"type":"Feature","properties":{"order":3,"name":"Bacaicoa","address":"Plaza Miguel de Unamuno 2","order_this":"Champiñón a la gloria","marker-color":"#d73a49","marker-symbol":"3"},"geometry":{"type":"Point","coordinates":[-2.9216136,43.2587166]}},
+    {"type":"Feature","properties":{"order":4,"name":"Irrintzi","address":"Santa María 8","order_this":"Crispy apple with duck","marker-color":"#d73a49","marker-symbol":"4"},"geometry":{"type":"Point","coordinates":[-2.9260641,43.2582878]}},
+    {"type":"Feature","properties":{"order":5,"name":"El Globo","address":"Diputación 8","order_this":"Gratinated txangurro","marker-color":"#d73a49","marker-symbol":"5"},"geometry":{"type":"Point","coordinates":[-2.9326962,43.2619801]}},
+    {"type":"Feature","properties":{"order":6,"name":"La Viña del Ensanche","address":"Diputación 10","order_this":"Josellini","marker-color":"#d73a49","marker-symbol":"6"},"geometry":{"type":"Point","coordinates":[-2.9327006,43.2617626]}}
+  ]
+}
